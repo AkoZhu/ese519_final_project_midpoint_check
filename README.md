@@ -21,7 +21,10 @@
 
 ## Design
 ### Diagram
-[!image](./assets/diagram.png)
+![image](./assets/diagram.png)
+
+### Connection
+![image](./assets/connection.png)
 
 ## Demo
 Here is our demo:
